@@ -8,7 +8,7 @@ Hệ thống quản lý task với Spring Boot 3, MySQL, JWT Authentication.
 - MySQL 8.0+
 
 ## Chạy ứng dụng
-### 0. Ứng dụng đã deploy lên render: 
+### 0. Ứng dụng đã deploy lên render: https://intern-java-yyrf.onrender.com
 ### 1. Tạo database
 
 ```bash
